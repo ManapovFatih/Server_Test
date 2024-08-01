@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Advertising Display",
+    "url": "/collections/advertising-display-27",
+    "subcategories": [
+      {
+        "name": "Wall Mounted Advertising Display",
+        "url": "/collections/wall-mounted-advertising-display-35"
+      },
+      {
+        "name": "Floor Stand Advertising Display",
+        "url": "/collections/stand-advertising-digital-signage-39"
+      },
+      {
+        "name": "Foldable Digital Signage",
+        "url": "/collections/foldable-standing-advertising-display-44"
+      },
+      {
+        "name": "Long LCD  Screen",
+        "url": "/collections/long-lcd--screen-47"
+      },
+      {
+        "name": "High Brightness Display",
+        "url": "/collections/hd-window-display-51"
+      }
+    ]
+  },
+  {
+    "name": "Smart Board",
+    "url": "/collections/smart-board-32",
+    "subcategories": [
+      {
+        "name": "For Conference",
+        "url": "/collections/interactive-whiteboard-for-conference-31"
+      },
+      {
+        "name": "For Classroom",
+        "url": "/collections/interactive-whiteboard-for-classroom-43"
+      }
+    ]
+  },
+  {
+    "name": "Touch Screen Kiosk",
+    "url": "/collections/touch-screen-kiosk-38",
+    "subcategories": []
+  },
+  {
+    "name": "Industrial Touch Panel PC",
+    "url": "/collections/industrial-touch-panel-pc-29",
+    "subcategories": [
+      {
+        "name": "Industrial Panel PC",
+        "url": "/collections/industrial-panel-pc"
+      },
+      {
+        "name": "Industrial PC",
+        "url": "/collections/industrial-pc-50"
+      },
+      {
+        "name": "Panel Touch Screen",
+        "url": "/collections/panel-touch-screen-49"
+      }
+    ]
+  },
+  {
+    "name": "Self Kiosk Machine",
+    "url": "/collections/self-service-kiosk-42",
+    "subcategories": [
+      {
+        "name": "Queue Management Kiosk",
+        "url": "/collections/payment-kiosk-48"
+      },
+      {
+        "name": "Self Ordering Kiosk",
+        "url": "/collections/self-ordering-kiosk"
+      },
+      {
+        "name": "For Library",
+        "url": "/collections/for-library"
+      },
+      {
+        "name": "For Hospital",
+        "url": "/collections/for-hospital"
+      }
+    ]
+  },
+  {
+    "name": "Outdoor Advertising display",
+    "url": "/collections/outdoor-advertising-display-45",
+    "subcategories": []
+  },
+  {
+    "name": "COVID-19",
+    "url": "/collections/face-recoginitiion-46",
+    "subcategories": []
+  },
+  {
+    "name": "Heat pump",
+    "url": "/collections/heat-pump",
+    "subcategories": []
+  },
+  {
+    "name": "360 photo booth",
+    "url": "/collections/360-photo-booth",
+    "subcategories": []
+  }
+]
